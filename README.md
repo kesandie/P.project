@@ -29,12 +29,12 @@ based on hire and term dates?
 a). There are more male employees.
 b). White race is the most dominant while Native Hawaiian and American
 c). Indian are the least dominant.
-d). The youngest employee is 20 years old and the oldest is 57 years old.
-e). 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large
-number of employees were between 25-34 followed by 35-44 while the
-smallest group was 55-64.
+d). The youngest employee is 20 years old and the oldest is 53 years old.
+e). 5 age groups were created (18-22, 23-32, 33-42, 43-52, 53-62). A large
+number of employees were between 23-32 followed by 33-42 while the
+smallest group was 53-62.
 f). A large number of employees work at the headquarters versus remotely.
-   The average length of employment for terminated employees is around 7
+   The average length of employment for terminated employees is around 8
 years.
 g). The gender distribution across departments is fairly balanced but there
 are generally more male than female employees.
