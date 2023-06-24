@@ -25,7 +25,7 @@ terminated?
 based on hire and term dates?
 11.     What is the tenure distribution for each department?
     
-## SUMMARY OF ENDING 
+## SUMMARY OF ENDING
 a). There are more male employees.
 b). White race is the most dominant while Native Hawaiian and American
 c). Indian are the least dominant.
